@@ -14,68 +14,70 @@ This Repository Represents A Journey Of Learning, Exploration, Experimentation, 
 
 ## 🎯 Focus
 
-The Main Focus Of This Repository Is **OpenCV And Computer Vision**, With Applications And Experiments Particularly Related To:
-
-* 🖼️ Image Processing
-* 👁️ Computer Vision
-* 🏥 Medical Imaging
-* 🔬 Biomedical Image Analysis
-* 🧬 Biological Applications
-* 🤖 AI-Assisted Vision Systems
-* 📊 Image-Based Data Analysis
-* 🧠 Computer Vision Models
-
-The Scope May Expand Naturally As New Techniques, Libraries, And Applications Are Explored.
+- Image Processing
+- Computer Vision
+- Medical Imaging
+- Biomedical Image Analysis
+- Biological Applications
+- AI-Assisted Vision Systems
+- Image-Based Data Analysis
+- Computer Vision Models
 
 ---
 
 ## 📚 Exercises
 
-The Repository Contains Practical Exercises Developed Throughout The OpenCV Learning Process.
+This Section Contains Practical Exercises And Course Projects Developed Throughout The OpenCV And Computer Vision Learning Journey.
 
-These Exercises Cover Fundamental Concepts And Gradually Progress Toward More Practical Computer Vision Tasks.
+The Materials Are Organized Into Three Categories:
+
+- **Instructor Exercises:** Exercises And Code Examples Provided By The Course Instructor.
+- **My Exercises:** Personally Solved, Modified, Extended, Or Experimentally Developed Exercises.
+- **Course Projects:** Projects With Specific Goals And Requirements Introduced Throughout The Course.
+
+The Collection Grows Gradually As New Concepts Are Learned And Practiced.
 
 ---
 
 ## 🚀 Projects
 
-Larger And More Complete Computer Vision Projects Are Also Included In The Repository.
+This Section Is Dedicated To More Independent And Comprehensive Projects Related To OpenCV, Image Processing, Computer Vision, And Potentially Medical Or Biological Applications.
 
-Projects May Cover Medical, Biological, And General Computer Vision Applications, Depending On The Topic And Learning Progress.
+Projects Will Be Added As The Learning Journey Progresses And New Ideas Are Developed.
 
 ---
 
 ## 🤖 Models
 
-Selected Projects May Include Trained And Experimentally Developed AI Models.
+This Section Is Intended For Experimental And Trained AI Models Related To Computer Vision And Image Analysis.
 
-Depending On The Project, Models And Related Resources May Be Published Through **GitHub Releases** Alongside Their Source Code And Documentation.
+Selected Models May Be Published Through GitHub Releases When They Are Ready To Be Shared.
 
 ---
 
 ## 🧰 Technologies
 
-* Python
-* OpenCV
-* NumPy
-* Matplotlib
-* Jupyter Notebook
-* Google Colab
-* PyTorch
-* TensorFlow
+- Python
+- OpenCV
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Google Colab
+- PyTorch
+- TensorFlow
 
-Additional Libraries And Tools May Be Added As New Exercises And Projects Require Them.
+Additional Libraries And Tools May Be Introduced As Needed.
 
 ---
 
 ## 🧭 Learning Journey
 
-This Repository Is Continuously Evolving Alongside My Learning And Practical Work In OpenCV And Computer Vision.
+HazarDenizi Evolves Alongside The Ongoing Learning Journey In OpenCV And Computer Vision.
 
-It Begins With Fundamental Image Processing Concepts And Gradually Moves Toward More Advanced Applications, Projects, And AI-Based Vision Systems.
+The Repository May Expand From Fundamental Image Processing Exercises To More Advanced Projects, Experiments, And AI-Based Applications.
 
 ---
 
 ## 📄 License
 
-This Repository Is Licensed Under The **MIT License**.
+This Repository Is Licensed Under The MIT License.
