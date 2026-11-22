@@ -41,9 +41,11 @@ The Collection Grows Gradually As New Concepts Are Learned And Practiced.
 
 ## 🚀 Projects
 
-This Section Is Dedicated To More Independent And Comprehensive Projects Related To OpenCV, Image Processing, Computer Vision, And Potentially Medical Or Biological Applications.
+This Section Contains Practical And Independent Projects Related To OpenCV, Image Processing, Computer Vision, And Medical Or Biological Applications.
 
-Projects Will Be Added As The Learning Journey Progresses And New Ideas Are Developed.
+Projects Include Implementations Developed During The Learning Process As Well As More Advanced Applications Built Beyond The Course Material.
+
+The Collection Will Continue To Expand With New Ideas, Experiments, And AI-Based Solutions.
 
 ---
 
@@ -72,9 +74,11 @@ Additional Libraries And Tools May Be Introduced As Needed.
 
 ## 🧭 Learning Journey
 
-HazarDenizi Evolves Alongside The Ongoing Learning Journey In OpenCV And Computer Vision.
+The Foundational OpenCV Learning Journey Has Been Completed, Including Practical Exercises And Course Projects.
 
-The Repository May Expand From Fundamental Image Processing Exercises To More Advanced Projects, Experiments, And AI-Based Applications.
+HazarDenizi Now Continues Beyond The Fundamentals, Exploring More Advanced Computer Vision Techniques, Deep Learning, Medical Imaging, And AI-Based Applications.
+
+The Repository Will Evolve Through Continuous Experimentation, Project Development, And Practical Implementation.
 
 ---
 
